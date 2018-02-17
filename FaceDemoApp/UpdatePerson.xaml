@@ -1,0 +1,18 @@
+﻿<Page
+    x:Class="FaceDemoApp.UpdatePerson"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:FaceDemoApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <CaptureElement x:Name="ctlCameraFeed" HorizontalAlignment="Left" Height="520" Margin="80,97,0,0" VerticalAlignment="Top" Width="526"/>
+        <TextBox x:Name="txtName" HorizontalAlignment="Left" Height="90" Margin="718,126,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="442" FontSize="48"/>
+        <TextBlock x:Name="lblName" HorizontalAlignment="Left" Margin="718,46,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" FontSize="48"/>
+        <Button x:Name="btnUpdate" Content="Button" HorizontalAlignment="Left" Height="118" Margin="718,428,0,0" VerticalAlignment="Top" Width="442" FontSize="48"/>
+        <Button x:Name="btnClose" Content="Button" HorizontalAlignment="Left" Height="118" Margin="718,551,0,0" VerticalAlignment="Top" Width="442" FontSize="48"/>
+
+    </Grid>
+</Page>

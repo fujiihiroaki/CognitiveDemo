@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="LABEL_ADD" xml:space="preserve">
+    <value>Add</value>
+  </data>
+  <data name="LABEL_AGE" xml:space="preserve">
+    <value>Age :</value>
+  </data>
+  <data name="LABEL_CLOSE" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="LABEL_DETECT" xml:space="preserve">
+    <value>Detect</value>
+  </data>
+  <data name="LABEL_NAME" xml:space="preserve">
+    <value>Name :</value>
+  </data>
+  <data name="LABEL_UPDATE" xml:space="preserve">
+    <value>Shot</value>
+  </data>
+  <data name="MAYBE_STRING" xml:space="preserve">
+    <value>, Maybe</value>
+  </data>
+  <data name="NO_FACES" xml:space="preserve">
+    <value>No faces detected.</value>
+  </data>
+  <data name="MSG_COMPLETE" xml:space="preserve">
+    <value>Complete !</value>
+  </data>
+</root>

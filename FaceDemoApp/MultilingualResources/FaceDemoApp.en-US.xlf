@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="ja-JP" target-language="en-US" original="FACEDEMOAPP/STRINGS/JA-JP/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6810.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="FACEDEMOAPP/STRINGS/JA-JP/RESOURCES.RESW" datatype="resx">
+        <trans-unit id="LABEL_ADD" translate="yes" xml:space="preserve">
+          <source>ユーザ追加</source>
+          <target state="final">Add</target>
+        </trans-unit>
+        <trans-unit id="LABEL_AGE" translate="yes" xml:space="preserve">
+          <source>年齢：</source>
+          <target state="final">Age :</target>
+        </trans-unit>
+        <trans-unit id="LABEL_CLOSE" translate="yes" xml:space="preserve">
+          <source>閉じる</source>
+          <target state="final">Close</target>
+        </trans-unit>
+        <trans-unit id="LABEL_DETECT" translate="yes" xml:space="preserve">
+          <source>検知</source>
+          <target state="final">Detect</target>
+        </trans-unit>
+        <trans-unit id="LABEL_NAME" translate="yes" xml:space="preserve">
+          <source>名前：</source>
+          <target state="final">Name :</target>
+        </trans-unit>
+        <trans-unit id="LABEL_UPDATE" translate="yes" xml:space="preserve">
+          <source>撮影</source>
+          <target state="final">Shot</target>
+        </trans-unit>
+        <trans-unit id="MAYBE_STRING" translate="yes" xml:space="preserve">
+          <source>, たぶん(*´з`)</source>
+          <target state="final">, Maybe</target>
+        </trans-unit>
+        <trans-unit id="NO_FACES" translate="yes" xml:space="preserve">
+          <source>顔を検知できませんでした</source>
+          <target state="final">No faces detected.</target>
+        </trans-unit>
+        <trans-unit id="MSG_COMPLETE" translate="yes" xml:space="preserve">
+          <source>完了しました</source>
+          <target state="final">Complete !</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
